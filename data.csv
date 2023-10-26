@@ -1,5 +1,5 @@
 rank,name,forbes_id,net_worth,age,age_range,country,source,industry,Age,Source of Wealth,Self-Made Score,Philanthropy Score,Residence,Citizenship,Marital Status,Children,Education,Bachelor,Master,Doctorate,Drop Out,Self Made
-1,Bernard Arnault & family,bernard-arnault,211.0,74.0,8,France,LVMH,Fashion & Retail,74.0,LVMH,,,"Paris, France",France,Married,5.0,"Bachelor of Arts/Science, Ecole Polytechnique de Paris",1.0,0.0,0.0,0.0,0
+1,Bernard Arnault & family,bernard-arnault,8.0,74.0,8,France,LVMH,Fashion & Retail,74.0,LVMH,,,"Paris, France",France,Married,5.0,"Bachelor of Arts/Science, Ecole Polytechnique de Paris",1.0,0.0,0.0,0.0,0
 2,Elon Musk,elon-musk,8.0,51.0,6,United States,"Tesla, SpaceX",Automotive,52.0,"Tesla, SpaceX, Self Made",8.0,1.0,"Austin, Texas",United States,Single,10.0,"Bachelor of Arts/Science, University of Pennsylvania",1.0,0.0,0.0,0.0,1
 3,Jeff Bezos,jeff-bezos,114.0,59.0,6,United States,Amazon,Technology,59.0,"Amazon, Self Made",8.0,2.0,"Medina, Washington",United States,Engaged,4.0,"Bachelor of Arts/Science, Princeton University",1.0,0.0,0.0,0.0,1
 4,Larry Ellison,larry-ellison,107.0,78.0,8,United States,Oracle,Technology,79.0,"Oracle, Self Made",9.0,1.0,"Lanai, Hawaii",United States,In Relationship,4.0,"Drop Out, University of Chicago; Drop Out, University of Illinois, Urbana-Champaign",0.0,0.0,0.0,1.0,1
